@@ -1,0 +1,58 @@
+header{
+	margin-left: 1000px;
+
+}
+.main{
+	position: absolute;
+	margin-top: 10px;
+	margin-left: 32%;
+	width:-3%;
+
+}
+.last{
+	
+	margin-left: 32%;
+	margin-top: 10%;
+}
+.main2{
+	margin-left: 60%;
+}
+.a{
+	text-align: center;
+	margin-top: 40px; 
+}
+#z,#x{
+	border: none;
+}
+/*@media only screen and (max-width:700px)
+{
+	
+}*/
+
+@media screen and (max-width: 600px) {
+  .main2 {
+    width: 50%;
+    margin-top: 0%;
+    margin-left: 42%;
+    height: 10%;
+
+  }
+  h1{
+  	padding-left: 30px;
+  	  }
+  	  .main{
+  	  	margin-left: 1%;
+  	  	width: -5%;
+  	  	margin-top: -1%;
+  	
+  	  }
+  	  header{
+  	  	margin-left: 10%;
+  	  	width: -12%;
+  	  }
+  	 .last{
+  	 	margin-left: 12%;
+    margin-top: 60%;
+}
+  	 }
+  	  }
